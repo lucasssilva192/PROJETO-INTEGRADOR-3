@@ -1,0 +1,211 @@
+Lista de itens iniciais do LoL
+Lâmina Cálida (350 gold): 10% vampirismo universal contra monstros OK
+Lâmina Álgida (350 gold): 10% vampirismo universal contra monstros OK
+Anel de Doran (400 gold): +15 poder de habilidade, +70 vida
+Lacre Sombrio (400 gold): +15 poder de habilidade, +40 vida
+Lágrima da Deusa (400 gold): +240 mana
+Gume do Ladrão Arcano (400 gold): +8 poder de habilidade, +10 vida, 50% regeneração da mana base, +2 de ouro a cada 10s
+Guarda-Ombros de Aço (400 gold): +3 dano de ataque, +30 vida, 25% regeneração da vida base, +2 de ouro a cada 10s
+Escudo Relicário (400 gold): +5 poder de habilidade, +30 vida, 25% regeneração da vida base, +2 de ouro a cada 10s
+Foice Espectral (400 gold): +5 dano de ataque, +10 vida, 25% regeneração da mana base, +2 de ouro a cada 10s
+Escudo de Doran (450 gold): +80 vida
+Lâmina de Doran (450 gold): +8 dano de ataque, +80 vida
+Abatedora (450 gold): +7 dano de ataque
+
+
+
+
+Lista de itens básicos do LoL
+lista de itens basicos lol
+Itens básicos do LoL
+Pérola do Rejuvenescimento (150 gold): 50% regeneração da vida base
+Amuleto da Fada (200 gold): 25% regeneração da mana base
+Couraça de Pano (300 gold): +15 armadura
+Adaga (300 gold): 12% velocidade de ataque
+Cristal de Safira (350 gold): +250 mana
+Espada Longa (350 gold): +10 dano de ataque
+Cristal de Rubi (400 gold): +150 vida
+Tomo Amplificador (435 gold): +20 poder de habilidade
+Manto Anula-Magia (450 gold): +25 resistência mágica
+Capa da Agilidade (600 gold): 15% chance de acerto crítico
+Cronômetro (650 gold): quando ativado, dá invulnerabilidade de 2.5s
+Varinha Explosiva (850 gold): +40 poder de habilidade
+Picareta (875 gold): +25 dano de ataque
+Bastão Desnecessariamente Grande (1.250 gold): +60 poder de habilidade
+Espada G.p.C. (1.300 gold): +40 dano de ataque
+
+
+
+
+
+
+Lista de itens épicos do LoL
+list de itens epicos lol
+Itens épicos do LoL
+Braçadeira Cristalina (650 gold): +200 vida, 50% regeneração da vida base
+Fulgor (700 gold): após usar uma habilidade, seu próximo ataque ganha força
+Estilhaço de Kircheis (700 gold): 15% de velocidade de ataque
+Ídolo Proibido (800 gold): 10% de cura e resistência do escudo, 50% regeneração da mana base
+Cota de Malha (800 gold): +40 armadura
+Faca da Fúria (800 gold): 25% velocidade de ataque
+Couraça Lunar Alada (800 gold): +150 vida
+Gema Ardente (800 gold): +200 vida, +10 aceleração de habilidade
+Colete Espinhoso (800 gold): +35 armadura
+Chamado do Carrasco (800 gold): +15 dano de ataque
+Orbe do Oblívio (800 gold): +30 poder de habilidade
+Cintilação Etérea (850 gold): +30 poder de habilidade
+Cetro Vampírico (900 gold): +15 dano de ataque, 10% roubo de vida
+Capa Negatron (900 gold): +50 resistência mágica
+Broquel Glacial (900 gold): +20 armadura, +250 mana, +10 aceleração de habilidade
+Códex Demoníaco (900 gold): +35 poder de habilidade, +10 aceleração de habilidade
+Cinto do Gigante (900 gold): +350 vida
+Espelho de Bandópolis (950 gold): +20 poder de habilidade, +10 aceleração de habilidade, 50% regeneração da mana base
+Arco Recurvo (1.000 gold): +25% velocidade de ataque
+Carapaça do Vigia (1.000 gold): +40 armadura
+Armaguarda da Caçadora (1.000 gold): +20 poder de habilidade, +15 armadura
+Barreira Verdejante (1.000 gold): +25 poder de habilidade, +25 resistência mágica
+Zelo (1.050 gold): 18% velocidade de ataque, 15% chance de acerto crítico
+Alternador Hextec (1.050 gold): +40 poder de habilidade
+Machado Termestre (1.100 gold): +15 dano de ataque, 15% velocidade de ataque
+Punhal Serrilhado (1.100 gold): +30 dano de ataque
+Martelo de Guerra de Caulfield (1.100 gold): +25 dano de ataque, +10 aceleração de habilidade
+Pedra-Vigia Inspiradora (1.100 gold): armazena sentinelas
+Brasa de Bami (1.100 gold): +300 vida
+Tiamat (1.200 gold): +25 dano de ataque
+Chicote Ferrifarpo (1.200 gold): +30 dano de ataque
+Capuz do Espectro (1.250 gold): +250 vida, +25 resistência mágica
+Joia da Ruína (1.250 gold): +25 poder de habilidade, 15% penetração mágica
+Bandana de Mercúrio (1.300 gold): +30 resistência mágica
+Hexdrinker (1.300 gold): +20 dano de ataque, +35 resistência mágica
+Capítulo Perdido (1.300 gold): +40 poder de habilidade, +300 mana, +10 aceleração de habilidade
+Olhar Sanguessuga (1.300 gold): +20 poder de habilidade, +250 vida, 5% de vampirismo universal
+Aljava Vespertina (1.300 gold): +30 dano de ataque, 15% velocidade de ataque
+Último Sussurro (1.450 gold): +20 dano de ataque, 20% penetração de armadura
+Égide da Legião (1.500 gold): +30 armadura, +30 resistência mágica, +10 aceleração de habilidade
+
+
+
+
+
+Lista de itens lendários do LoL
+lista itens lendarios lol
+Itens lendários do LoL
+Ladrão de Almas de Mejai (1.600 gold): +20 poder de habilidade, +100 vida
+Putrificador Quimtec (2.300 gold): +50 poder de habilidade, +20 aceleração de habilidade, 100% regeneração da mana base
+Cajado Aquafluxo (2.300 gold): +50 poder de habilidade, 10% de cura e resistência do escudo, 100% regeneração da mana base
+Pedra-Vigia Vigilante (2.300 gold): +40 aceleração de habilidade, 10% velocidade de movimento
+Turíbulo Ardente (2.300 gold): +60 poder de habilidade, 10% de cura e resistência do escudo, 100% regeneração da mana base
+Bênção de Mikael (2.300 gold): 20% de cura e resistência do escudo, +50 de resistência mágica, +15 aceleração de habilidade, 100% regeneração da mana base
+Redenção (2.300 gold): 20% de cura e resistência do escudo, +200 vida, +15 aceleração de habilidade, 100% regeneração da mana base
+Juramento do Cavaleiro (2.300 gold): +400 vida, +10 aceleração de habilidade, 300% regeneração da vida base
+Convergência de Zeke (2.400 gold): +250 vida, +25 armadura, +250 mana, +20 aceleração de habilidade
+Coração Congelado (2.500 gold): +70 armadura, +400 mana, +20 aceleração de habilidade
+Lembrete Mortal (2.500 gold): +25 dano de ataque, 25% velocidade de ataque, 20% chance de acerto crítico, 7% velocidade de movimento
+Cajado do Vazio (2.500 gold): +65 poder de habilidade, 40% penetração mágica
+Morellonomicon (2.500 gold): +80 poder de habilidade, +250 vida
+Canhão Fumegante (2.500 gold): 35% velocidade de ataque, 20% chance de acerto crítico, 7% velocidade de movimento
+Dançarina Fantasma (2.600 gold): 25% velocidade de ataque, +20 dano de ataque, 20% chance de acerto crítico, 7% velocidade de movimento
+Serrespada Quimiopunk (2.600 gold): +45 dano de ataque, +250 vida, +15 aceleração de habilidade
+Presa da Serpente (2.600 gold): +55 dano de ataque, +18 letalidade
+Furacão de Runaan (2.600 gold): 55% velocidade de ataque, 20% chance de acerto crítico, 7% velocidade de movimento
+Glaive Sombria (2.600 gold): +50 dano de ataque, +12 letalidade, +15 aceleração de habilidade
+Ampulheta de Zhonya (2.600 gold): +65 poder de habilidade, +45 armadura, +10 aceleração de habilidade
+Véu da Banshee (2.600 gold): +80 poder de habilidade, +45 resistência mágica,
+Máscara Abissal (2.700 gold): +350 vida, +60 resistência mágica
+Presságio de Randuin (2.700 gold): +250 vida, +80 armadura, 10 aceleração de habilidade
+Armadura de Espinhos (2.700 gold): +350 vida, +60 armadura
+Chuva de Canivete (2.700 gold): +40 dano de ataque, 15% velocidade de ataque, 20% chance de acerto crítico
+Anjo Guardião (2.800 gold): +40 dano de ataque, +40 armadura
+Lâmina da Fúria de Guinsoo (2.800 gold): 45% velocidade de ataque, 20% chance de acerto crítico
+Força da Natureza (2.900 gold): +350 vida, +60 resistência mágica, 5% velocidade de movimento
+Manamune (2.900 gold): +35 dano de ataque, +500 mana, 15 aceleração de habilidade
+Semblante Espiritual (2.900 gold): +450 vida, +40 resistência mágica, 10 aceleração de habilidade, 100% regeneração da vida base
+Lembranças do Lorde Dominik (2.900 gold): +35 dano de ataque, 20% chance de acerto crítico, 35% penetração de armadura
+Colhedor de Essência (2.900 gold): +55 dano de ataque, 20% chance de acerto crítico, 20 aceleração de habilidade
+Couraça do Defunto (2.900 gold): +400 vida, +40 armadura, 5% velocidade de movimento
+Limiar da Noite (2.900 gold): +50 dano de ataque, +10 letalidade, +325 vida OK
+Cajado do Arcanjo (3.000 gold): +65 poder de habilidade, +500 mana OK 
+Perdição de Lich (3.000 gold): +70 poder de habilidade, 10% velocidade de movimento OK
+Lâmina Sanguinária (3.000 gold): +50 dano de ataque, +10 letalidade, +12 vampirismo físico OK
+Armadura de Warmog (3.000 gold): +800 vida, +10 aceleração de habilidade, 200% regeneração da vida base OK
+Cetro de Cristal de Rylai (3.000 gold): +90 poder de habilidade, +350 vida OK
+Cimitarra Mercurial (3.000 gold): +40 dano de ataque, 20% chance de acerto crítico, +30 resistência mágica OK
+Lâmina Fantasma de Youmuu (3.000 gold): +60 dano de ataque, +18 letalidade OK
+Dente de Na’Shor (3.000 gold): +100 poder de habilidade, 50% velocidade de ataque OK
+Foco do Horizonte (3.000 gold): +115 poder de habilidade OK 
+Ímpeto Cósmico (3.000 gold): +75 poder de habilidade, +200 vida, +20 aceleração de habilidade OK
+Abraço Demoníaco (3.000 gold): +70 poder de habilidade, +350 vida OK
+Alvorada da Pratânia (3.000 gold): +40 dano de ataque, +300 vida, +35 resistência mágica OK 
+A Coletora (3.000 gold): +55 dano de ataque, 20% chance de acerto crítico, +12 letalidade OK
+Mandíbula de Malmortius (3.100 gold): +50 dano de ataque, +50 resistência mágica, +15 aceleração de habilidade OK
+Limite da Razão (3.100 gold): +30 dano de ataque, 40% velocidade de ataque, +50 resistência mágica OK
+Dança da Morte (3.100 gold): +50 dano de ataque, +40 armadura, +15 aceleração de habilidade OK
+Sinal de Sterak (3.100 gold): +50 dano de ataque, +400 vida OK
+Espada do Rei Destruído (3.200 gold): +40 dano de ataque, 25% velocidade de ataque, 12% roubo de vida OK
+Placa Gargolítica (3.300 gold): +60 armadura, +60 resistência mágica, +15 aceleração de habilidade OK
+Hidra Raivosa (3.300 gold): +65 dano de ataque, +20 aceleração de habilidade, 10% vampirismo universal OK
+Cutelo Negro (3.300 gold): +40 dano de ataque, +300 vida, +25 aceleração de habilidade OK
+Hidra Titânica (3.300 gold): +30 dano de ataque, +500 vida
+Gume do Infinito (3.400 gold): +70 dano de ataque, 20% chance de acerto crítico OK
+Adagas Rápidas Navori (3.400 gold): +60 dano de ataque, 20% chance de acerto crítico, +30 aceleração de habilidade OK
+Rancor de Serylda (3.400 gold): +45 dano de ataque, 30% penetração de armadura, +20 aceleração de habilidade OK
+Capuz da Morte de Rabadon (3.800 gold): +120 poder de habilidade OK
+Lista de itens míticos do LoL
+lista de itens miticos lol
+Itens míticos do LoL
+Hino Bélico de Shurelya (2.500 gold): +40 poder de habilidade, +200 vida, +20 aceleração de habilidade, 100% regeneração da mana base OK
+Medalhão dos Solari de Ferro (2.500 gold): +200 vida, +20 aceleração de habilidade, +30 armadura, +30 resistência mágica OK
+Mandato Imperial (2.500 gold): +40 poder de habilidade, +200 vida, +20 aceleração de habilidade, 100% regeneração da mana base OK
+Regenerador de Pedra Lunar (2.500 gold): +40 poder de habilidade, +200 vida, +20 aceleração de habilidade, 100% regeneração da mana base OK
+Manopla do Raio de Gelo (2.800 gold): +350 vida, +25 armadura, +25 resistência mágica, +20 aceleração de habilidade OK
+Quimiotanque Turbo (2.800 gold): +350 vida, +25 armadura, +25 resistência mágica, +20 aceleração de habilidade OK
+Égide de Fogo Solar (3.200 gold): +350 vida, +30 armadura, +30 resistência mágica, +15 aceleração de habilidade OK
+Explocinturão Hextec (3.200 gold): +90 poder de habilidade, +350 vida, +15 aceleração de habilidade OK
+Criafendas (3.200 gold): +80 poder de habilidade, +300 vida, +15 aceleração de habilidade, 8% de vampirismo universal OK
+Colhedor Noturno (3.200 gold): +90 poder de habilidade, +300 vida, +15 aceleração de habilidade OK
+Crepúsculo de Draktharr (3.200 gold): +60 dano de ataque, +18 letalidade, +20 aceleração de habilidade OK
+Eclipse (3.200 gold): +55 dano de ataque, +18 letalidade, 8% de vampirismo universal OK 
+Garra do Espreitador (3.200 gold): +60 dano de ataque, +21 letalidade, +20 aceleração de habilidade OK
+Hemodrenário (3.300 gold): +45 dano de ataque, +400 vida, +20 aceleração de habilidade, 150% regeneração da vida base OK
+Quebrapassos (3.300 gold): +45 dano de ataque, 20% velocidade de ataque, +300 vida, +20 aceleração de habilidade OK
+Ruptor Divino (3.300 gold): +40 dano de ataque, +400 vida, +20 aceleração de habilidade OK
+Força da Trindade (3.333 gold): +25 dano de ataque, 35% velocidade de ataque, +200 vida, +20 aceleração de habilidade OK
+Angústia de Liandry (3.400 gold): +80 poder de habilidade, +600 mana, +20 aceleração de habilidade OK
+Tormenta de Luden (3.400 gold): +80 poder de habilidade, +6 penetração mágica, +600 mana, +20 aceleração de habilidade OK
+Glacieterno (3.400 gold): +80 poder de habilidade, +250 vida, +600 mana, +20 aceleração de habilidade OK
+Força do Vendaval (3.400 gold): +60 dano de ataque, 20% velocidade de ataque, 20% chance de acerto crítico OK
+Mata-Cráquens (3.400 gold): +60 dano de ataque, 25% velocidade de ataque, 20% chance de acerto crítico OK
+Arco-Escudo Imortal (3.400 gold): +55 dano de ataque, 20% velocidade de ataque, 20% chance de acerto crítico, 12% chance de roubo de vida OK
+
+Lista de itens botas do LoL
+botas do lol
+Botas do LoL
+Botas (300 gold): +25 de velocidade de movimento OK
+Botas da Rapidez (900 gold): +60 velocidade de movimento
+Botas Ionianas da Lucidez (900 gold): +20 aceleração de habilidade, +45 velocidade de movimento OK
+Botas da Mobilidade (1.00 gold): +25 velocidade de movimento OK 
+Botas Galvanizadas de Aço (1.100 gold): +20 armadura, +45 velocidade de movimento OK 
+Grevas do Berserker (1.100 gold): 35% velocidade de ataque, +45 velocidade de movimento OK 
+Sapatos do Feiticeiro (1.100 gold): +18 penetração mágica, +45 velocidade de movimento OK
+Passos de Mercúrio (1.100 gold): +25 resistência mágica, +45 velocidade de movimento, 30% tenacidade
+
+
+
+
+
+Lista de itens consumíveis do LoL
+itens consumiveis do lol
+Itens consumíveis do LoL
+Sentinela Invisível (grátis): amuleto de visão OK
+Alteração Vidente (grátis): amuleto de visão OK
+Sentinela de Controle (grátis): amuleto de visão OK
+Lente do Oráculo (grátis): amuleto que retira visão OK
+Poção de Vida (50 gold): restaura vida OK
+Poção com Refil (150 gold): restaura vida OK
+Poção Corrupta (500 gold): restaura mana e vida OK
+Elixir de Ferro (500 gold): vida + tenacidade  OK
+Elixir da Feitiçaria (500 gold): poder de habilidade + regeneração de mana OK
+Elixir da Ira (500 gold): dano de ataque + vampirismo físico
+
+feitos acima
+
