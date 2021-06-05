@@ -29,22 +29,19 @@
 <hr>
 
 <div class="row justify-content-center">
-<div class="col-md-6 col-10 bg-roxo my-4 p-3">
 
-<h3 class="lt-branca">Endereço de Entrega</h3>
-        <address class="ms-3 lt-cinza">
 
-        </address>
-        <a href="#" class="me-4 lt-branca">Trocar o endereço</a>
-</div>
 
-<div class="col-md-6 col-10 bg-roxo my-4 p-3">
+
+
+<div class="col-md-10 col-10 bg-roxo my-4 p-3">
 <form method="POST" action="{{ route('order.add') }}">
     @csrf
+    <h3 class="lt-branca">Endereço de Entrega</h3>
     <select class="form-select" name="address">  
         <option>Escolha um endereço</option>
         @foreach(\App\Models\Address::enderecos() as $add)
-            <option> {{$add->logradouro}}, {{ $add->numero }}, {{ $add->cep }}, {{ $add->bairro }} {{ $add->cidade }} {{ $add->estado }} </option>
+            <option> {{$add->logradouro}}, {{ $add->numero }}, {{ $add->cep }}, {{ $add->bairro }} ,{{ $add->cidade }}/{{ $add->estado }} </option>
         @endforeach
     </select>
 

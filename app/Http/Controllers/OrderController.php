@@ -19,7 +19,7 @@ class OrderController extends Controller
             'user_id' => Auth()->user()->id,
             'status' => 'Processando',
             'address' => $request->address,
-            'cc_number' => substr($request->cc_nnumber, -4),
+            'cc_number' => $request->cc_card
         ]);
 
         foreach($cart as $item){

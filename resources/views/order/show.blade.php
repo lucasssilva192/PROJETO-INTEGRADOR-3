@@ -13,8 +13,8 @@
             <div class="accordion-collapse collapse" id="item-{{ $order->id }}">
                 <div class="accordion-body">
                     <div>
-                        <p>{{ $order->address }}, {{ $order->address_number }}, {{ $order->address_city }} - {{ $order->address_state}}</p>
-                        <p>Pago com o cartão: *{{ $order->cc_number }}</p>
+                        <p>{{ $order->address }}</p>
+                        <p>Pago com o cartão: *{{ substr($order->cc_number, -4) }}</p>
                     </div>
                     <table class="table table-striped">
                         <thead>

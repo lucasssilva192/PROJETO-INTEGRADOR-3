@@ -2,9 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Address;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
+use App\Models\Address;
+use App\Models\User;
 
 class AddressController extends Controller
 {
@@ -15,7 +15,7 @@ class AddressController extends Controller
      */
     public function index()
     {
-        return view('user.index');
+        return view('address.index');
     }
 
     /**
@@ -25,7 +25,7 @@ class AddressController extends Controller
      */
     public function create()
     {
-        return view('user.create');
+        return view('address.create');
     }
 
     /**
@@ -46,7 +46,7 @@ class AddressController extends Controller
             'estado' => $request->estado,
         ]);
         session()->flash('success', 'Endereço gravado com sucesso');
-        return redirect(route('user.index'));
+        return redirect(route('address.index'));
     }
 
     /**
@@ -55,9 +55,9 @@ class AddressController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(Address $address)
+    public function show($id)
     {
-        return view('user.show')->with('user', $address);
+        
     }
 
     /**
@@ -66,9 +66,9 @@ class AddressController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit(Address $address)
     {
-        //
+        return view('address.edit')->with(['address' => $address]);
     }
 
     /**
@@ -78,9 +78,18 @@ class AddressController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, Address $address)
     {
-        //
+        $address->update([
+            'logradouro' => $request->logradouro,
+            'numero' => $request->numero,
+            'cep' => $request->cep,
+            'bairro' => $request->bairro,
+            'cidade' => $request->cidade,
+            'estado' => $request->estado
+        ]);
+        session()->flash('success', 'O endereço foi editado com sucesso!');
+        return redirect(route('user.index'));
     }
 
     /**
@@ -89,9 +98,10 @@ class AddressController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Address $address){
+    public function destroy(Address $address)
+    {
         $address->delete();
         session()->flash('success', 'O endereço foi apagado com sucesso!');
-        return redirect(route('user.index'));
+        return redirect(route('address.index'));
     }
 }
