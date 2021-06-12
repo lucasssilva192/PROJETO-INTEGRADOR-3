@@ -99,6 +99,16 @@
                             <a class="nav-link lt-branca-menu fonte-g" href="{{ Route('user.index') }}" style="margin-top: 0.5vh; width:195px">{{Auth()->user()->name}}</a>
                             <a class="nav-link lt-branca fonte-g" href="{{ route('cart.show') }}" style="margin-top: 0.5vh;  width:120px">Carrinho ({{ \App\Models\Cart::count() }})</a>
                             <a class="nav-link lt-branca fonte-g" href="{{ route('order.show') }}" style="margin-top: 0.5vh;">Pedidos</a>
+                            @if(Auth()->user()->isAdmin === 1)
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle lt-branca-menu fonte-g" href="#" id="navbarDropdownMenuCategoria" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="margin-top: 0.5vh">Gerênciar</a>
+                            <ul class="dropdown-menu bg-preto" aria-labelledby="navbarDropdownMenuCategoria">
+                                <a class="nav-link lt-branca-menu fonte-g" href="{{ Route('product.index') }}" style="margin-top: 0.5vh">Produtos</a>
+                                <a class="nav-link lt-branca-menu fonte-g" href="{{ Route('tag.index') }}" style="margin-top: 0.5vh">Tags</a>
+                                <a class="nav-link lt-branca-menu fonte-g" href="{{ Route('category.index') }}" style="margin-top: 0.5vh">Categorias</a>
+                            </ul>
+                            </li>
+                            @endif
                             <form method="POST" action="{{ route('logout') }}" class="d-flex">
                                 @csrf
                                 <button type="submit" class="nav-link lt-branca-menu fonte-g" style="border: 0px;background: none; margin-top: 0.5vh;">Deslogar</button>
